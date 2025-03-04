@@ -1,5 +1,5 @@
 # Event-driven-ETL-pipeline-S3-to-Redshift-with-Glue-and-Lambda
-
+https://medium.com/@abdoulkaled/event-driven-etl-pipeline-s3-to-redshift-with-glue-and-lambda-5b34e3f4971c
 
 ![ETL_job_s3_redshit](https://github.com/user-attachments/assets/3f9a73ae-45fc-4f5f-924b-5d0b19f359ff)
 
